@@ -351,7 +351,8 @@ p {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	width: 80%;
+	width: auto;
+	height: ;
 	margin: 20px auto;
 	overflow: hidden;
 	border-radius: 10px;
